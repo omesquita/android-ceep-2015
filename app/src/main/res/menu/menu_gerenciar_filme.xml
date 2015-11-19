@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_salvar"
+        android:icon="@android:drawable/ic_menu_save"
+        android:title="@string/action_salvar"
+        app:showAsAction="always" />
+
+    <group
+        android:id="@+id/group_editar"
+        android:visible="false">
+        <item
+            android:id="@+id/action_excluir"
+            android:icon="@android:drawable/ic_menu_delete"
+            android:title="@string/action_excluir"
+            app:showAsAction="always" />
+    </group>
+
+</menu>

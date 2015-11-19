@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Cadastro de Filmes</string>
+    <string name="tituo_filme">Título</string>
+    <string name="direitor_filme">Diretor</string>
+    <string name="estudio_filme">Estúdio</string>
+    <string name="genero_filme">Gênero</string>
+    <string name="classificacao_indicativa">Classificação Indicativa</string>
+    <string name="classificacao_livre">Livre</string>
+    <string name="classificacao_10_anos">10 Anos</string>
+    <string name="classificacao_12_anos" >12 Anos</string>
+    <string name="classificacao_14_anos" >14 Anos</string>
+    <string name="classificacao_16_anos" >16 Anos</string>
+    <string name="classificacao_18_anos" >18 Anos</string>
+    <string name="avaliacao_filme">Avaliação</string>
+    <string name="action_sobre">Sobre</string>
+    <string name="action_salvar">Salvar</string>
+    <string name="action_excluir">Excluir</string>
+    <string name="action_novo">Novo</string>
+    <string name="msg_salvo_com_sucesso">Filme Salvo com Sucesso</string>
+    <string name="msg_excluido_com_sucesso">Filme Excluido com Sucesso</string>
+    <string name="msg_sobre">Programa desenvolvido por Osnir Mesquita no Curso de Android Ceep</string>
+
+</resources>
